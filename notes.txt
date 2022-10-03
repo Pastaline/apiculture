@@ -1,0 +1,34 @@
+Call Pascaline
+
+Coder une API
+Travailler avec Postman
+L'API ne doit pas être publique donc elle utilise SimpleJWT
+Et plusieurs utilisateurs avec plusieurs niveaux de permission
+
+Par exemple Kate doit s'identifier avec son jeton
+Base de données SQLite3
+
+C'est un exercice en gros
+Il faut refaire un Jira avec Postman + DRF
+
+C'est la région et pôle emploi qui paye
+mais faut valider
+
+Elle a une semaine
+
+Essayer d'utiliser du ViewSet
+
+---
+
+Creation d'une API selon
+https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
+superuser : zoupi, mdp : bzzbzzbzz
+
+python manage.py migrate --run-syncdb
+a reglé un pb de no such table
+à faire après makemigrations
+mais migrate tout court suffit
+
+---
+
+mardi 18h place de la madeleine 7ème étage
